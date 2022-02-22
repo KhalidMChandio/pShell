@@ -1,0 +1,43 @@
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\pShell.exe.config
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\pShell.exe.manifest
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\pShell.application
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\pShell.exe
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\pShell.pdb
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\Cake.Powershell.dll
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\System.Management.Automation.dll
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\Cake.Powershell.pdb
+E:\Test Projects\VS2019\PowerShell\pShell\bin\Debug\Cake.Powershell.xml
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.frmAbout.resources
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.frmHelp.resources
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.frmMain.resources
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.Properties.Resources.resources
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.csproj.GenerateResource.cache
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.csproj.CoreCompileInputs.cache
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.exe.manifest
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.application
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.csproj.CopyComplete
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.exe
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.pdb
+E:\Test Projects\VS2019\PowerShell\pShell\obj\Debug\pShell.csproj.AssemblyReference.cache
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\pShell.exe.config
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\pShell.exe.manifest
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\pShell.application
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\pShell.exe
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\pShell.pdb
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\Cake.Powershell.dll
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\System.Management.Automation.dll
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\Cake.Powershell.pdb
+D:\VSProjects\PowerShell\PowerShell\pShell\bin\Debug\Cake.Powershell.xml
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.csproj.AssemblyReference.cache
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.csproj.SuggestedBindingRedirects.cache
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.frmAbout.resources
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.frmHelp.resources
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.frmMain.resources
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.Properties.Resources.resources
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.csproj.GenerateResource.cache
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.csproj.CoreCompileInputs.cache
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.exe.manifest
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.application
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.csproj.CopyComplete
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.exe
+D:\VSProjects\PowerShell\PowerShell\pShell\obj\Debug\pShell.pdb
